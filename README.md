@@ -10,7 +10,7 @@
  - 杨慧/男/1995 
  - 本科/山东理工大学/电子信息工程专业 
  - 工作年限：半年
- - 技术博客：[ayyll.com](http://www.ayyll.com)
+ - 技术博客：[www.ayyll.com](http://www.ayyll.com)
  - Github：[github.com/ayyll](http://www.github.com/ayyll)
  - 期望职位：Java实习生，初级工程师
  - 期望薪资：税前月薪6k~10k
