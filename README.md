@@ -32,7 +32,7 @@
 
  - [基于Spring + SpringMVC + MyBatis的云相册](http://120.25.149.118/album/)：主要完成文件上传，存储功能，使用ajaxSubmit控件提交文件表单，SpringMVC控制器将文件保存到服务器，使用MyBatis框架将文件在服务器的路径持久化到mysql数据库中，因此，数据库中只需要存放文件的路径，减小了数据库的压力。
  - [基于Spring + SpringMVC + MyBatis的银行管理系统](http://120.25.149.118/BankSystem/)：前端采用bootstrap + AngularJS,实现登陆，注册，修改密码等功能，添加了JavaScript生成的随机验证码，后台以spring为核心，springmvc做控制器实现前后端分离，Mybatis做ORM框架实现对MySQL数据库的操作.后台进行了分页查询，优化了页面显示.安全方面使用过滤器来校验登陆状态。
- - [3.基于Spring + SpringMVC + MyBatis的个人论坛系统](http://120.25.149.118/MyForum/)：实现了论坛的基本功能，注册，登陆，发帖，回帖，楼中楼回复，等级制度，用户资料修改，后台管理界面功能主要有加精，置顶，删贴。使用SpringMVC实现了RESTful风格的url。后期添加爬虫功能，可以爬取糗事百科的热门段子并自动每日发帖。爬虫脚本Python实现。
+ - [基于Spring + SpringMVC + MyBatis的个人论坛系统](http://120.25.149.118/MyForum/)：实现了论坛的基本功能，注册，登陆，发帖，回帖，楼中楼回复，等级制度，用户资料修改，后台管理界面功能主要有加精，置顶，删贴。使用SpringMVC实现了RESTful风格的url。后期添加爬虫功能，可以爬取糗事百科的热门段子并自动每日发帖。爬虫脚本Python实现。
 # 技能清单
 以下均为我熟练使用的技能
 
