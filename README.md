@@ -12,7 +12,7 @@
  - 工作年限：一年
  - 技术博客：[ayyll.com](http://ayyll.com)
  - Github：[github.com/ayyll](http://www.github.com/ayyll)
- - 期望职位：web后台工程师,嵌入式软件工程师，架构师
+ - 期望职位：web后台工程师，嵌入式软件工程师，架构师
 
 ---
 
