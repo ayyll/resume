@@ -10,8 +10,8 @@
  - 杨慧/男/1995 
  - 本科/山东理工大学/电子信息工程专业 
  - 工作年限：一年
- - 技术博客：[ayyll.com](http://ayyll.com)
- - Github：[github.com/ayyll](http://www.github.com/ayyll)
+ - 技术博客：<a href="http://ayyll.com" target="_blank">ayyll.com</a>
+ - Github：<a href="http://github.com/ayyll" target="_blank">github.com</a>
  - 期望职位：web后台工程师，嵌入式软件工程师，架构师
 
 ---
