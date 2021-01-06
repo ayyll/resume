@@ -38,9 +38,12 @@
 
 本人对后台开发较感兴趣，对Java/Python比较擅长，平时也经常用Python写一些小脚本。对Linux使用较为熟悉，能够适应Linux下面的开发。
 
-## 目睹直播 （ 2018年3月 ~ 5月）
+## 目睹直播 （ 2018年3月 ~ 2018年6月）
 在目睹直播做直播平台方面的研发工作，后端架构主要使用PHP + Golang,负责一些平台的优化以及新功能的开发。
 
+## 2018年6月 ~ 2019年12月 离职考研空挡期
+
+## 2020年 ~ 至今 疫情原因+家庭原因待业 
 ---
 
 # 个人作品
@@ -56,8 +59,8 @@
 以下均为我熟悉的技能:
 
 - MCU相关：ARM/MSP430/MTK/NRF52840
-- 编程语言：C/C++/Java/Python
-- Web开发：Java/Python/PHP
+- 编程语言：C/C++/Java/Python/Golang
+- Web开发：Java/Python/PHP/Golang
 - Web框架：Spring/SpringMVC/Mybatis/ThinkPHP/Ruby on Rails
 - 前端开发:HTML/CSS/JavaScript/JQuery/Bootstrap
 - 数据库：MySQL/Redis
