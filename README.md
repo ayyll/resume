@@ -9,7 +9,7 @@
 
  - 杨慧/男/1995 
  - 本科/山东理工大学/电子信息工程专业 
- - 工作年限：一年
+ - 工作年限：三年
  - 技术博客：<a href="http://ayyll.com" target="_blank">ayyll.com</a>
  - Github：<a href="http://github.com/ayyll" target="_blank">github.com</a>
 
@@ -28,7 +28,7 @@
 - 一定程度上代码重构。
 
 # 工作经历
-## 青岛歌尔声学股份有限公司 （ 2017年7月 ~ 2018年3月 ）
+## 青岛歌尔声学股份有限公司 （ 2017年7月 ~ 2020年3月 ）
 
 在歌尔公司担任嵌入式软件工程师(C/C++)，主要负责智能穿戴(手环/手表),PC-VR等产品的软件方面的研发，以及满足部门日常软件开发的需求(网站开发，脚本编写等),曾经负责过的模块:
 
@@ -38,12 +38,7 @@
 
 本人对后台开发较感兴趣，对Java/Python比较擅长，平时也经常用Python写一些小脚本。对Linux使用较为熟悉，能够适应Linux下面的开发。
 
-## 目睹直播 （ 2018年3月 ~ 2018年6月）
-在目睹直播做直播平台方面的研发工作，后端架构主要使用PHP + Golang,负责一些平台的优化以及新功能的开发。
-
-## 2018年6月 ~ 2019年12月 离职考研空挡期
-
-## 2020年 ~ 至今 疫情原因+家庭原因待业 
+## 2020年3月 ~ 至今 个人原因待业(离职考研) 
 ---
 
 # 个人作品
@@ -59,9 +54,9 @@
 以下均为我熟悉的技能:
 
 - MCU相关：ARM/MSP430/MTK/NRF52840
-- 编程语言：C/C++/Java/Python/Golang
+- 编程语言：C/C++/Java/Python
 - Web开发：Java/Python/PHP/Golang
-- Web框架：Spring/SpringMVC/Mybatis/ThinkPHP/Ruby on Rails
+- Web框架：Spring/SpringMVC/Mybatis/ThinkPHP
 - 前端开发:HTML/CSS/JavaScript/JQuery/Bootstrap
 - 数据库：MySQL/Redis
 - 版本管理：Git/SVN
